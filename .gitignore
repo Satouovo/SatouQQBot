@@ -1,0 +1,31 @@
+# Build outputs and local IDE settings
+/build*/
+/out/
+/dist/
+/.vs/
+/CMakeUserPresets.json
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.ipch
+
+# Local credentials and runtime data
+config.json
+/config.*.json
+!/config.example.json
+/.env
+/.env.*
+!/.env.example
+/data/*
+!/data/.gitkeep
+*.log
+*.tmp
+*.bak

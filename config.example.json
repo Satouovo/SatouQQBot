@@ -1,0 +1,8 @@
+{
+  "napcat_url": "ws://127.0.0.1:3011",
+  "access_token": "",
+  "superusers": [],
+  "command_prefixes": ["", "/"],
+  "default_mute_seconds": 600,
+  "data_file": "data/groups.json"
+}
